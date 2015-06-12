@@ -2,7 +2,7 @@
 layout: post
 title:  "Camp Incredible!"
 date:   2015-06-11 19:52:24
-categories: jekyll update
+categories: camps
 street: 3003 Summit Park Blvd., Atlanta, GA 30319
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
